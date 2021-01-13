@@ -28,13 +28,17 @@ Intrusi merupakan kegiatan mencurigakan yang dapat dilakukan oleh seseorang dala
 - **Testing.** Pada tahapan ini, penulis mencoba fungsionalitasi alat, dan melakukan perbaikan jika ada kendala.
 
 ## Desain Alat
+- Flowchart Fungsional
+
+![](https://github.com/Bhaskaraa/FP_IDS_Made-Bhaskara_05311840000007/blob/main/IDS/Data%20Flow.png)
+
 - Rancangan Alat
 
 ![]()
 
 - Foto Alat
 
-![]()
+![](https://github.com/Bhaskaraa/FP_IDS_Made-Bhaskara_05311840000007/blob/main/IDS/Alat.jpeg)
 
 ## Source Code
 - Source yang digunakan dapat dilihat pada file [Source Code]()
