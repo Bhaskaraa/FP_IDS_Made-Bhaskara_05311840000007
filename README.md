@@ -30,7 +30,7 @@ Intrusi merupakan kegiatan mencurigakan yang dapat dilakukan oleh seseorang dala
 ## Desain Alat
 - Rancangan Alat
 
-![](https://github.com/Bhaskaraa/FP_IDS_Made-Bhaskara_05311840000007/blob/main/IDS/Hasil.jpeg)
+![]()
 
 - Foto Alat
 
@@ -41,4 +41,4 @@ Intrusi merupakan kegiatan mencurigakan yang dapat dilakukan oleh seseorang dala
 
 ## Hasil yang Didapat
 
-![]()
+![](https://github.com/Bhaskaraa/FP_IDS_Made-Bhaskara_05311840000007/blob/main/IDS/Hasil.jpeg)
