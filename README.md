@@ -12,6 +12,7 @@ Departemen  :   Teknologi Informasi
 Intrusi merupakan kegiatan mencurigakan yang dapat dilakukan oleh seseorang dalam sebuah sistem atau jaringan. Bentuk intrusi dapat bermacam, dan beberapa bentuknya adalah suara dan Gerakan. Kasus diatas dapat diatasi dengan adanya pengenalan bunyi/suara dan gerakan mencurigakan pada ruangan.
 
 ## Ide dan Solusi yang Diusulkan
+Disini penulis memberikan sebuah ide dengan mendeteksi kegiatan mencurigakan bedasarkan suara dengan bantuan sensor dari piranti cerdas IoT. Saat mendeteksi suara yang mencurigakan, dimana melebihi ukuran suara yang dianggap normal, piranti aka mendeteksi dan mengirim notifikasi melalui telegram.
 
 ## Perlengkapan yang Diperlukan
 - Arduino UNO
