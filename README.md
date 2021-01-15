@@ -46,4 +46,4 @@ Disini penulis memberikan sebuah ide dengan mendeteksi kegiatan mencurigakan bed
 
 ## Hasil yang Didapat
 
-![](https://github.com/Bhaskaraa/FP_IDS_Made-Bhaskara_05311840000007/blob/main/IDS/Hasil.jpeg)
+![](https://github.com/Bhaskaraa/FP_IDS_Made-Bhaskara_05311840000007/blob/main/IDS/Bot.png)
