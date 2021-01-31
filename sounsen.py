@@ -4,12 +4,12 @@ import time
 sense = serial.Serial('COM4', 9600)
 
 account_sid = 'AC4f3df2af353b7ac24970b0f2ae76eb96'  
-auth_token = 'aa918568495f1dd5e9d2a56f6f64c8ea'
+auth_token = '5cbfd7c9f925e2ebd31b083598d0b399'
 client = Client(account_sid, auth_token)
 
-suara_tinggi = 400 #desibel
-suara_bicara = 350 #desibel
-suara_lingkungan = 340 #desibel
+suara_tinggi = 550 #desibel x 10
+suara_bicara = 350 #desibel x 10
+suara_lingkungan = 340 #desibel x 10
 
 while True:
 	while sense.inWaiting():
